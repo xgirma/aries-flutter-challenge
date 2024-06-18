@@ -2,7 +2,7 @@
 
 ## Objective
 
-Design and implement a front-end for options strategy risk and reward analysis using Flutter.
+Design and implement an iOS & Android front-end for options strategy risk and reward analysis using Flutter.
 
 ## Brief
 
